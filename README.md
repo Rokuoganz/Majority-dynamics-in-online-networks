@@ -41,14 +41,12 @@ Dataset originale disponibile su SNAP: [https://snap.stanford.edu/data/ego-Faceb
 
 ## Installazione e Uso
 
-1. Clonare il repository GitHub del progetto sul proprio PC.
-2. Installare Python e le librerie necessarie.
-3. Aprire il notebook `.ipynb` contenente l'implementazione del progetto.
-4. Eseguire le celle del notebook per caricare la rete, eseguire gli algoritmi, simulare la diffusione e generare i risultati.
-5. Modificare, se necessario, i parametri relativi al budget, alla funzione di costo e alle perturbazioni della rete.
+1. Scaricare i file .ipynb.
+2. Aprire i file .ipynb tramite Google Colab.
+4. Eseguire tutte le celle tramite Colab
 
 ## Struttura del Progetto
 
 * [Documentazione.pdf](Majority_Dynamics_In_Online_Networks.pdf): documentazione completa del progetto e analisi dei risultati.
-* [Dataset/](Dataset/): directory contenente la rete utilizzata.
+* [Dataset/](facebook_combined.txt): directory contenente la rete utilizzata.
 * [Notebook/](MaxInfluence.ipynb): directory contenente i notebook utilizzati per l'implementazione e gli esperimenti.
