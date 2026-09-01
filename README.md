@@ -49,7 +49,6 @@ La rete viene utilizzata per simulare il processo di diffusione dell'influenza e
 
 ## Struttura del Progetto
 
-* [Documentazione.pdf](Documentazione.pdf): documentazione completa del progetto e analisi dei risultati.
+* [Documentazione.pdf](Majority_Dynamics_In_Online_Networks.pdf): documentazione completa del progetto e analisi dei risultati.
 * [Dataset/](Dataset/): directory contenente la rete utilizzata.
-* [Notebook/](Notebook/): directory contenente i notebook utilizzati per l'implementazione e gli esperimenti.
-* [Results/](Results/): directory contenente i risultati e i grafici prodotti dagli esperimenti.
+* [Notebook/](MaxInfluence.ipynb): directory contenente i notebook utilizzati per l'implementazione e gli esperimenti.
