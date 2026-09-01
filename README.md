@@ -23,10 +23,10 @@ Sono stati confrontati tre algoritmi di selezione del seed set: **Cost-Seeds-Gre
 * Rappresentare e confrontare i risultati ottenuti attraverso grafici.
 
 ## Rete
-
 Gli esperimenti sono stati condotti sulla rete **facebook_combined**, proveniente dal **Stanford Network Analysis Project (SNAP)**.
-
 La rete viene utilizzata per simulare il processo di diffusione dell'influenza e le successive perturbazioni strutturali.
+
+Dataset originale disponibile su SNAP: [https://snap.stanford.edu/data/ego-Facebook.html](https://snap.stanford.edu/data/ego-Facebook.html)
 
 ## Strumenti e Tecnologie
 
