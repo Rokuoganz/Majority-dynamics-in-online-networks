@@ -39,14 +39,20 @@ Dataset originale disponibile su SNAP: [https://snap.stanford.edu/data/ego-Faceb
 * **NetworkX**: libreria utilizzata per la gestione e l'analisi dei grafi.
 * **Google Colab**: ambiente utilizzato per lo sviluppo e l'esecuzione degli esperimenti.
 
-## Installazione e Uso
+## Installazione e Uso 
 
+Modo 1: Automatico
 1. Scaricare i file .ipynb.
 2. Aprire i file .ipynb tramite Google Colab.
 4. Eseguire tutte le celle tramite Colab
 
+Modo 2: Manuale (Se non dovesse funzionare il precedente)
+1. Eseguire i punti 1 e 2 precedentemente elencati.
+2. Scaricare il file facebook_combined.txt contenuto in [Dataset/](facebook_combined);
+3. Caricare il file manualmente su Colab tra i file disponibili, commentare la seconda cella ed eseguire a partire dalla terza.
+
 ## Struttura del Progetto
 
 * [Documentazione.pdf](Majority_Dynamics_In_Online_Networks.pdf): documentazione completa del progetto e analisi dei risultati.
-* [Dataset/](facebook_combined.txt): directory contenente la rete utilizzata.
+* [Dataset/](facebook_combined): directory contenente la rete utilizzata.
 * [Notebook/](MaxInfluence.ipynb): directory contenente i notebook utilizzati per l'implementazione e gli esperimenti.
